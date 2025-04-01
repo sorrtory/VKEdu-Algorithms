@@ -3,4 +3,7 @@ This repo stores my solutions from VK course of Algorithms
 
 ## Links to passed tests
 1. https://contest.yandex.ru/contest/75803/run-report/134967274/
-2. 
+2. https://contest.yandex.ru/contest/75803/run-report/135258985/
+3. https://contest.yandex.ru/contest/75803/run-report/135262008/
+4. https://contest.yandex.ru/contest/75803/run-report/135577441/
+5. https://contest.yandex.ru/contest/75803/run-report/135617864/
