@@ -16,3 +16,9 @@
 ## 3. Queue
 
 ## 4. MinHeap
+
+## 5. MergeSort + Scanline
+
+## 6. Quickselect
+
+## 7. Binary MSD

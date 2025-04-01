@@ -7,3 +7,5 @@ This repo stores my solutions from VK course of Algorithms
 3. https://contest.yandex.ru/contest/75803/run-report/135262008/
 4. https://contest.yandex.ru/contest/75803/run-report/135577441/
 5. https://contest.yandex.ru/contest/75803/run-report/135617864/
+6. https://contest.yandex.ru/contest/75803/run-report/135933296/
+7. https://contest.yandex.ru/contest/75803/run-report/135944174/
