@@ -15,3 +15,7 @@ This repo stores my solutions from VK course of Algorithms
     7. https://contest.yandex.ru/contest/75803/run-report/135944174/
 
 ### Module 2
+
+    1. https://contest.yandex.ru/contest/76998/run-report/137928089/
+    2. https://contest.yandex.ru/contest/76998/run-report/137953221/
+    4. https://contest.yandex.ru/contest/76998/run-report/137998794/
