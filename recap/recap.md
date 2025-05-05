@@ -1,6 +1,8 @@
 # Info
 
-## 1. Bitwise operations
+## Module 1
+
+### 1. Bitwise operations
 
 1. Set bit
 `(N | 1 << k)`
@@ -11,14 +13,22 @@
 4. Read bit
 `(N >> k) & 1`
 
-## 2. Binary and Exponentional search
+### 2. Binary and Exponentional search
 
-## 3. Queue
+### 3. Queue
 
-## 4. MinHeap
+### 4. MinHeap
 
-## 5. MergeSort + Scanline
+### 5. MergeSort + Scanline
 
-## 6. Quickselect
+### 6. Quickselect
 
-## 7. Binary MSD
+### 7. Binary MSD
+
+## Module 2
+
+### 1. Hashtable
+
+### 2. DFS. [Post order](https://en.wikipedia.org/wiki/Tree_traversal)
+
+### 4. AVL tree
