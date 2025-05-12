@@ -18,4 +18,5 @@ This repo stores my solutions from VK course of Algorithms
 
     1. https://contest.yandex.ru/contest/76998/run-report/137928089/
     2. https://contest.yandex.ru/contest/76998/run-report/137953221/
+    3. https://contest.yandex.ru/contest/76998/run-report/138224876/
     4. https://contest.yandex.ru/contest/76998/run-report/137998794/

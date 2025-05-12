@@ -31,4 +31,6 @@
 
 ### 2. DFS. [Post order](https://en.wikipedia.org/wiki/Tree_traversal)
 
+### 3. B Tree
+
 ### 4. AVL tree
