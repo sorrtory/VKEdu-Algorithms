@@ -22,10 +22,13 @@ Here is some [problems](./task/) I solved.
     2. https://contest.yandex.ru/contest/76998/run-report/137953221/
     3. https://contest.yandex.ru/contest/76998/run-report/138224876/
     4. https://contest.yandex.ru/contest/76998/run-report/137998794/
+    5. ...
 
 ### Module 3. Tests
 
     1. N/A
+    2. https://contest.yandex.ru/contest/78169/run-report/138942875/
+    3. https://contest.yandex.ru/contest/78169/run-report/138955174/
 
 ## Problem's content
 
@@ -54,7 +57,7 @@ Here is some [problems](./task/) I solved.
 
 #### 6. Quickselect (sem3)
 
-#### 7. Binary MSD (sem3 after break)
+#### 7. Binary MSD sort (sem3 after break)
 
 ### Module 2
 
@@ -75,3 +78,7 @@ Here is some [problems](./task/) I solved.
 ### Module 3
 
 #### 1. Graph representation (sem7)
+
+#### 2. Shortest path. Unweighted (sem8)
+
+#### 3. Shortest path. Dijkstra (sem8 ~0:20:00)
