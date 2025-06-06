@@ -82,3 +82,5 @@ Here is some [problems](./task/) I solved.
 #### 2. Shortest path. Unweighted (sem8)
 
 #### 3. Shortest path. Dijkstra (sem8 ~0:20:00)
+
+#### 4. A* for 15 puzzle (sem8 ~1:00:00)
